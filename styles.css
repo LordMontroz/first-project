@@ -1,9 +1,13 @@
-div {
-    width: auto;
+body {
+    margin-top: 333px;
     text-align: center;
-    color: #000;
-    background-color: aqua;
 }
-.mountain {
-    background-color: aquamarine;
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 124px;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 88px;
 }
